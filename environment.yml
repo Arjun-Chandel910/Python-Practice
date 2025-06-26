@@ -1,8 +1,0 @@
-name: K:\Python\venv1
-channels:
-  - defaults
-dependencies:
-  - python==3.12.4
-  - ipykernel
-  - numpy
-prefix: K:\Python\venv1
