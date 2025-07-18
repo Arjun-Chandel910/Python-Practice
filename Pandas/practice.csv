@@ -1,0 +1,51 @@
+Emp ID,Name,Country,Department,Product,Project Code,Manager,Date of Joining,Last Review Date,Monthly Salary,Bonus %,Hours Worked,Monthly Sales,Defect Rate (%),Performance,Employment Status
+301,Ravi Kumar,INDIA,IT,Alpha 1,PRJ202,Anil Verma,17-10-2023,09-09-2026,,5,197,,,Excellent,Active
+302,Carlos Mendes,india,HR,Neo Light,PRJ303,lisa ray,16-03-2021,01-03-2024,59312,5,161,,,poor,Active
+303,Carlos Mendes,japan,IT,eco charge,PRJ101,Anil Verma,16-09-2023,02-03-2025,55916,15,189,,,Good,Active
+304,Ravi Kumar,japan,HR,EcoCharg,PRJ202,Lisa Ray,04-08-2022,22-06-2024,120008,10,157,,,excellent,Active
+305,Yuki Nakamura,BRAZIL,Operations,ALPHAONE,PRJ202,lisa ray,23-02-2023,23-06-2025,139700,,177,,1.68,Average,Active
+306,Fatima Noor,INDIA,Operations,NEO_LT,PRJ404,hans müller,29-05-2021,12-10-2023,175763,5,140,,4.37,average,Left
+307,Ravi Kumar,GERMANY,finance,eco charge,PRJ202,takashi ito,26-11-2020,28-03-2023,119975,5,189,,,poor,Active
+308,Yuki Nakamura,INDIA,Finance,Alpha 1,PRJ404,hans müller,04-12-2020,28-06-2022,90521,20,173,,,good,Left
+309,Fatima Noor,USA,Finance,Alpha 1,PRJ101,Anil Verma,13-04-2021,17-04-2022,121619,5,197,,,Excellent,Active
+310,Yuki Nakamura,usa,Sales,GadgtX,PRJ404,takashi ito,17-05-2022,06-05-2024,60799,5,195,294855,,Excellent,Left
+311,Ravi Kumar,brazil,finance,gadget x,PRJ505,Anil Verma,10-07-2020,16-06-2023,78597,10,194,,,Poor,Left
+312,Carlos Mendes,brazil,Finance,neolight,PRJ202,takashi ito,21-03-2021,15-03-2022,117209,5,177,,,Excellent,Active
+313,Sophie Lee,brazil,Sales,eco charge,PRJ505,hans müller,22-03-2020,12-10-2022,103358,15,166,92982,,Good,Left
+314,Fatima Noor,INDIA,Sales,eco charge,PRJ505,Takashi Ito,28-09-2020,17-07-2022,131869,10,196,86066,,Average,Active
+315,Ravi Kumar,usa,IT,gadget x,PRJ505,Lisa Ray,11-07-2021,19-02-2023,124884,10,178,,,Good,Left
+316,Sophie Lee,GERMANY,HR,NEO_LT,PRJ404,hans müller,20-01-2020,09-03-2021,178023,,144,,,Excellent,Left
+317,Sophie Lee,USA,Sales,SMARTHME,PRJ404,hans müller,12-11-2020,08-05-2022,143080,10,191,135197,,Excellent,Active
+318,Ravi Kumar,BRAZIL,Sales,neolight,PRJ202,Maria Gomez,17-12-2021,,93438,10,190,480197,,Excellent,Active
+319,Carlos Mendes,INDIA,sales,Smart Home,PRJ505,Takashi Ito,19-03-2020,04-05-2021,117228,15,167,362775,,Poor,Active
+320,Sophie Lee,germany,Operations,GadgtX,PRJ303,hans müller,04-10-2021,09-06-2024,167939,15,186,,4.32,average,Left
+321,Fatima Noor,GERMANY,Operations,eco charge,PRJ303,Takashi Ito,06-03-2021,16-03-2023,156893,15,178,,4.04,Poor,Left
+322,Fatima Noor,GERMANY,Sales,AlfaOne,PRJ303,lisa ray,11-02-2021,07-05-2022,159554,10,142,62805,,excellent,Left
+323,Ravi Kumar,BRAZIL,HR,AlfaOne,PRJ505,Maria Gomez,12-04-2020,30-08-2022,154658,5,155,,,Good,Left
+324,Fatima Noor,BRAZIL,HR,Neo Light,PRJ303,lisa ray,29-07-2023,03-03-2025,,20,189,,,Average,Left
+325,Sophie Lee,INDIA,Operations,Neo Light,PRJ505,Maria Gomez,01-05-2022,29-04-2023,,20,166,,1.43,Poor,Left
+326,Fatima Noor,USA,Operations,ALPHAONE,PRJ404,maria gomez,29-02-2020,27-01-2022,78265,20,183,,2.01,Poor,Active
+327,Sophie Lee,india,IT,Neo Light,PRJ202,maria gomez,31-10-2021,07-08-2023,107943,20,188,,,Poor,Left
+328,Ravi Kumar,INDIA,hr,Alpha 1,PRJ505,Lisa Ray,03-05-2021,06-07-2022,92138,5,170,,,poor,Left
+329,Ravi Kumar,GERMANY,Finance,Neo Light,PRJ202,anil verma,27-04-2023,,61712,10,193,,,average,Active
+330,Yuki Nakamura,BRAZIL,Sales,Neo Light,PRJ404,lisa ray,10-06-2022,03-10-2023,176078,15,173,434720,,poor,Left
+331,Yuki Nakamura,JAPAN,Finance,Neo Light,PRJ101,maria gomez,27-10-2021,25-02-2023,128015,10,171,,,Average,Left
+332,Fatima Noor,USA,operations,Neo Light,PRJ101,anil verma,25-08-2021,02-02-2023,131736,15,155,,2.32,poor,Left
+333,Ravi Kumar,JAPAN,hr,Alpha 1,PRJ404,Takashi Ito,23-01-2024,,61352,15,188,,,Good,Left
+334,Sophie Lee,BRAZIL,sales,GadgtX,PRJ303,maria gomez,07-09-2022,,101185,5,151,228628,,Poor,Active
+335,Sophie Lee,INDIA,Finance,NEO_LT,PRJ505,hans müller,07-04-2021,05-04-2024,153099,20,173,,,poor,Left
+336,Sophie Lee,GERMANY,Sales,Alpha 1,PRJ202,hans müller,02-06-2020,05-09-2021,158184,20,166,51402,,Average,Active
+337,Sophie Lee,brazil,Sales,eco charge,PRJ202,Takashi Ito,18-10-2020,26-10-2021,110657,15,150,81267,,Poor,Active
+338,Carlos Mendes,JAPAN,IT,gadget x,PRJ202,hans müller,17-04-2023,03-03-2024,45546,15,188,,,Good,Left
+339,Yuki Nakamura,GERMANY,IT,gadget x,PRJ303,Maria Gomez,21-11-2023,05-02-2026,,20,158,,,Excellent,Left
+340,Yuki Nakamura,brazil,Sales,AlfaOne,PRJ303,hans müller,17-10-2022,14-05-2025,88361,5,188,281756,,average,Active
+341,Fatima Noor,INDIA,finance,neolight,PRJ202,anil verma,03-08-2022,27-09-2023,165646,10,181,,,Average,Left
+342,Sophie Lee,INDIA,IT,Neo Light,PRJ505,Takashi Ito,06-01-2020,17-08-2021,163356,15,186,,,Good,Left
+343,Fatima Noor,brazil,HR,neolight,PRJ303,maria gomez,15-12-2023,18-01-2027,74873,20,164,,,poor,Active
+344,Sophie Lee,BRAZIL,HR,GADGETX,PRJ303,takashi ito,30-06-2023,04-04-2026,121131,5,165,,,poor,Left
+345,Sophie Lee,INDIA,Operations,GadgtX,PRJ101,maria gomez,06-12-2020,12-09-2023,120032,5,141,,1.85,Excellent,Left
+346,Yuki Nakamura,JAPAN,HR,NEO_LT,PRJ202,Lisa Ray,02-08-2022,12-03-2025,101932,20,156,,,Excellent,Left
+347,Carlos Mendes,BRAZIL,IT,ALPHAONE,PRJ404,Anil Verma,30-04-2021,21-03-2023,112561,15,176,,,Average,Active
+348,Yuki Nakamura,germany,HR,ECOCHARGE,PRJ202,Lisa Ray,25-06-2023,01-01-2025,60470,,183,,,excellent,Left
+349,Fatima Noor,GERMANY,Finance,ECOCHARGE,PRJ202,Takashi Ito,13-09-2022,12-10-2025,65191,15,158,,,Poor,Active
+350,Yuki Nakamura,INDIA,IT,eco charge,PRJ404,Takashi Ito,09-10-2023,09-09-2026,134883,15,183,,,Average,Active
